@@ -3,7 +3,7 @@
 Plugin Name: RBM Evaluations CPT
 Plugin URL: https://github.com/realbig/RBM-Evaluations-CPT
 Description: Evaluations CPT moved from CPT-onomies
-Version: 0.1.0
+Version: 0.1.1
 Text Domain: rbm-evaluations-cpt
 Author: Eric Defore
 Author URL: http://realbigmarketing.com
