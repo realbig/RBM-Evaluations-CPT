@@ -16,8 +16,8 @@ class RBM_CPT_Evaluations extends RBM_CPT {
 	public $icon = 'admin-post';
 	public $post_args = array(
 		'hierarchical' => true,
-		'supports'     => array( 'title', 'editor', 'author', 'thumbnail' ),
-		'has_archive'  => false,
+		'supports'     => array( 'title', 'editor', 'author' ),
+		'has_archive'  => true,
 		'rewrite'      => array(
 			'slug'       => 'evaluations',
 			'with_front' => false,
